@@ -84,6 +84,11 @@ Some countries have a special Google car that is easy to recognize:
 
 [source](https://www.indifferentlanguages.com/words/street)
 
+### Nordic languages
+
+- The [Finnish alphabet](https://en.wikipedia.org/wiki/Finnish_orthography#The_extra_letters_%C3%84_and_%C3%96) has 2 extra letters: ä and ö.
+- The [Danish and Norwegian alphabet](https://en.wikipedia.org/wiki/Danish_and_Norwegian_alphabet) has 3 extra letters: æ, ø and å.
+- The [Swedish alphabet](https://en.wikipedia.org/wiki/Swedish_alphabet) has 3 extra letters: å, ä and ö. 
 
 ## Road lines
 
