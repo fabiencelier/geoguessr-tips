@@ -39,6 +39,52 @@ Some countries have a special Google car that is easy to recognize:
 
 ## Languages
 
+### How to say "street"
+
+#### In Europe
+
+| Country | "street"  |
+|---|---|
+| Albanian | rrugë |
+| Bulgarian |	улица	|
+| Macedonian | улица |
+| Serbian | улица |
+| Russian | улица |
+| Ukrainian |	вулиця |
+| Greek |	δρόμος |
+| Catalan | carrer |
+| Croatian | ulica |
+| Polish | ulica |
+| Slovenian |	ulica |
+| Czech |	ulice |
+| Hungarian |	utca |
+| Lithuanian | gatvė	|
+| Danish | gade |
+| Norwegian |	gate |
+| Swedish |	gata |
+| Finnish |	katu |
+| Dutch |	straat |
+| Italian |	strada |
+| Romanian | stradă |
+| French | rue |
+| Galician | rúa |
+| Portuguese | rua |
+| Estonian | tänav |
+| German | Straße |
+| Icelandic |	Götu |
+| Irish |	ainm |
+| Latvian | iela |
+| Luxembourgish |	Strooss |
+| Maltese |	triq |
+| Scots Gaelic | sràid |
+| Slovak | pouličné |
+| Spanish |	calle |
+| Welsh |	stryd |
+| Turkish |	sokak |
+
+[source](https://www.indifferentlanguages.com/words/street)
+
+
 ## Road lines
 
 ## Internet domains
