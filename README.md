@@ -90,6 +90,20 @@ Some countries have a special Google car that is easy to recognize:
 - The [Danish and Norwegian alphabet](https://en.wikipedia.org/wiki/Danish_and_Norwegian_alphabet) has 3 extra letters: æ, ø and å.
 - The [Swedish alphabet](https://en.wikipedia.org/wiki/Swedish_alphabet) has 3 extra letters: å, ä and ö. 
 
+
+## Road signs
+
+### Slovenia
+
+The kilometer signs are very frequent in Slovenia and they also contain the road number in yellow.
+
+![Slovenia road signe](resources/img/roadsign-slovenia.png)
+
+### Denmark
+
+These signs with red writting on white background and red border are only in Denmark.
+
+![Slovenia road signe](resources/img/roadsign-denmark.png)
 ## Road lines
 
 ## Internet domains
