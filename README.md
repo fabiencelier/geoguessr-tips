@@ -9,7 +9,7 @@ More tricks and techniques can be found on [this famous blog](https://somerandom
   - [Map maker tool](https://www.geoguessr.com/map-maker) of GeoGuessr
   - [Wikipedia page](https://en.wikipedia.org/wiki/Coverage_of_Google_Street_View)
 
-Some countries have very limited street viewed areas:
+Some countries have very limited street viewed areas. It can reduce the places to search for a city name or road number and also improve random guesses.
 
 ### Jordan
 
@@ -41,7 +41,7 @@ Full list can be found on [wikipedia](https://en.wikipedia.org/wiki/Left-_and_ri
 
 ## Google car
 
-Some countries have a special Google car that is easy to recognize:
+Some countries have a special Google car that is easy to recognize.
 
 ### Ghana
 
@@ -162,7 +162,7 @@ TO DO
 
 ## Internet domains
 
-Internet domain are often found on shops, ads, trucks... If it is not a classic `.com` it can be really helpful to identify the country.
+Internet website are often found on shops, ads, trucks... If it does not end with a classic `.com` it can be really helpful to identify the country.
 
 A complete list of Internet country code top-level domains can be found of [wikipedia](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains#Country_code_top-level_domains).
 
