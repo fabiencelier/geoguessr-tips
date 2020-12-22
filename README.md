@@ -13,8 +13,27 @@ Some countries have very limited street viewed areas:
 
 ### Jordan
 
-![street-view-jordan](resources/img/street-view-jordan-01.png)
+![Street view coverage in Jordan](resources/img/street-view-jordan-01.png)
 
+### Tunisia
+
+Tunisia is only street viewed on the east coast
+
+![Street view coverage in Tunisia](resources/img/street-view-tunisia-01.png)
+
+### Nigeria
+
+![Street view coverage in Nigeria](resources/img/street-view-nigeria-01.png)
+
+### Bolivia
+
+![Street view coverage in Bolivia](resources/img/street-view-bolivia-01.png)
+
+### Germany
+
+Germany is only street viewed around big cities.
+
+![Street view coverage in Germany](resources/img/street-view-germany-01.png)
 
 ## Left/Right-hand traffic
 
@@ -26,17 +45,50 @@ Some countries have a special Google car that is easy to recognize:
 
 ### Ghana
 
-![ghana black tape](resources/img/google-car-ghana-01.png)
+In Ghana the car has roof bars with black tape.
 
-![ghana black tape](resources/img/google-car-ghana-02.png)
+![ghana black tape](resources/img/google-car-ghana-02.png)  ![ghana black tape](resources/img/google-car-ghana-01.png)
 
 
 ### Kenya
 
-![kenya google car](resources/img/google-car-kenya-01.png)
+In Kenya the car has a snorkel.
 
-![kenya google car](resources/img/google-car-kenya-02.png)
+![kenya google car](resources/img/google-car-kenya-01.png) ![kenya google car](resources/img/google-car-kenya-02.png)
 
+### Mongolia
+
+![Mongolia google car](resources/img/google-car-mongolia-01.png) ![Mongolia google car](resources/img/google-car-mongolia-02.png)
+
+### Bangladesh
+
+Some places in Bangladesh, but not all, have a very distinctive car with with roof bars, red mirrors, yellow and green door.
+
+![Bangladesh google car](resources/img/google-car-bangladesh-01.png)
+### Roof bars on the car
+
+In several countries the Google car simply has metal bars on the roof. There are not that many countries with it so this feature and some additional context can really help identify the country. For instance spanish language + roof bars often means Guatemala.
+
+#### Guatemala
+
+![Guatemala google car](resources/img/google-car-guatemala-01.png)
+
+#### Kyrgystan
+
+
+![Kyrgystan google car](resources/img/google-car-kyrgystan-01.png)
+
+#### Dominican Republic
+
+![Kyrgystan google car](resources/img/google-car-dominican-republic-01.png)
+
+## Nigeria
+
+In some places of the country (not all !) the google car is followed by a police car. One of the police cars is really easy to identify because it has red and blue lights on the roof.
+
+![Nigeria police car](resources/img/police-car-nigeria-01.png) ![Nigeria police car](resources/img/police-car-nigeria-02.png)
+
+[Example on Google Street View](https://www.google.com/maps?q&layer=c&cbll=6.308179520046743,6.422759422841334)
 ## Languages
 
 ### How to say "street"
@@ -106,4 +158,23 @@ These signs with red writting on white background and red border are only in Den
 ![Slovenia road signe](resources/img/roadsign-denmark.png)
 ## Road lines
 
+TO DO
+
 ## Internet domains
+
+Internet domain are often found on shops, ads, trucks... If it is not a classic `.com` it can be really helpful to identify the country.
+
+A complete list of Internet country code top-level domains can be found of [wikipedia](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains#Country_code_top-level_domains).
+
+Here is a list of some tricky ones that can be seen in Geoguessr:
+
+ - `.ae` = United Arab Emirates
+ - `.ch` = Switzerland (from Confoederatio Helvetica)
+ - `.cw` = Curaçao
+ - `.ee` = Estonia
+ - `.hr` = Croatia
+ - `.lk` = Sri Lanka
+ - `.rs` = Serbia
+ - `.sz` = Eswatini
+ - `.ua` = Ukraine
+ - `.za` = South Africa (from Zuid-Afrika in Dutch)
