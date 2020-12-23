@@ -145,6 +145,19 @@ In some places of the country (not all !) the google car is followed by a police
 
 ## Road signs
 
+### USA
+
+USA highway signs design differs from one state to another.
+
+![USA highway road signs](resources/img/roadsign-usa-01.jpeg)
+
+_source: [reddit](https://www.reddit.com/r/geoguessr/comments/inv6vy/helpful_usa_guide/) and [99percentinvisible](https://99percentinvisible.org/article/american-highways-101-visual-guide-to-u-s-road-sign-designs-numbering-systems/)_
+
+### USA vs Canada
+
+Signs indicating speed limits are different between the USA and Canada. In the USA the sign says "SPEED LIMIT" while in canada it says "MAXIMUM"
+
+![speed limit sign USA](resources/img/roadsign-speed-usa-01.png) ![speed limit sign Canada](resources/img/roadsign-speed-canada-01.png)
 ### Slovenia
 
 The kilometer signs are very frequent in Slovenia and they also contain the road number in yellow.
@@ -178,3 +191,13 @@ Here is a list of some tricky ones that can be seen in Geoguessr:
  - `.sz` = Eswatini
  - `.ua` = Ukraine
  - `.za` = South Africa (from Zuid-Afrika in Dutch)
+
+## Phone number
+
+### France
+
+In France the 2 first digits of the phone number are based on the geographic area.
+
+![French phone number](resources/img/phone-number-france-01.png)
+
+_source: [wikipedia](https://commons.wikimedia.org/wiki/File:Carte_indicatifs_t%C3%A9l%C3%A9phoniques_fran%C3%A7ais.svg)_
