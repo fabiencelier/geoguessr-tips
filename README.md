@@ -4,6 +4,36 @@ Tips and resources for [GeoGuessr](https://www.geoguessr.com/).
 
 More tricks and techniques can be found on [this famous blog](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/)
 
+**Table of contents**
+
+  - [Coverage of Google Street View](#coverage-of-google-street-view)
+    - [Jordan](#jordan)
+    - [Tunisia](#tunisia)
+    - [Nigeria](#nigeria)
+    - [Bolivia](#bolivia)
+    - [Germany](#germany)
+  - [Left/Right-hand traffic](#leftright-hand-traffic)
+  - [Google car](#google-car)
+    - [Ghana](#ghana)
+    - [Kenya](#kenya)
+    - [Mongolia](#mongolia)
+    - [Bangladesh](#bangladesh)
+    - [Ukraine](#ukraine)
+    - [Roof bars on the car](#roof-bars-on-the-car)
+    - [Nigeria](#nigeria)
+  - [Languages](#languages)
+    - [How to say "street"](#how-to-say-street)
+    - [Nordic languages](#nordic-languages)
+  - [Road signs](#road-signs)
+    - [USA](#usa)
+    - [USA vs Canada](#usa-vs-canada)
+    - [Slovenia](#slovenia)
+    - [Denmark](#denmark)
+  - [Road lines](#road-lines)
+    - [Nordic road lines](#nordic-road-lines)
+  - [Internet domains](#internet-domains)
+  - [Phone number](#phone-number)
+    - [France](#france)
 ## Coverage of Google Street View 
 
   - [Map maker tool](https://www.geoguessr.com/map-maker) of GeoGuessr
@@ -65,6 +95,14 @@ In Kenya the car has a snorkel.
 Some places in Bangladesh, but not all, have a very distinctive car with with roof bars, red mirrors, yellow and green door.
 
 ![Bangladesh google car](resources/img/google-car-bangladesh-01.png)
+
+### Ukraine
+
+In Ukraine the google car is red.
+
+![Ukraine goole car](resources/img/google-car-ukraine-01.png)
+
+[example](https://www.google.com/maps/@50.1219884,28.975738,3a,90y,296.05h,57.72t/data=!3m6!1e1!3m4!1smS90XPoCGhZoUCD1md2Lkw!2e0!7i13312!8i6656)
 ### Roof bars on the car
 
 In several countries the Google car simply has metal bars on the roof. There are not that many countries with it so this feature and some additional context can really help identify the country. For instance spanish language + roof bars often means Guatemala.
@@ -82,13 +120,19 @@ In several countries the Google car simply has metal bars on the roof. There are
 
 ![Kyrgystan google car](resources/img/google-car-dominican-republic-01.png)
 
-## Nigeria
+### Nigeria
 
 In some places of the country (not all !) the google car is followed by a police car. One of the police cars is really easy to identify because it has red and blue lights on the roof.
 
 ![Nigeria police car](resources/img/police-car-nigeria-01.png) ![Nigeria police car](resources/img/police-car-nigeria-02.png)
 
 [Example on Google Street View](https://www.google.com/maps?q&layer=c&cbll=6.308179520046743,6.422759422841334)
+
+## Street view year
+
+Countries with specific year on all the pictures:
+
+  - Croatia: 2013
 ## Languages
 
 ### How to say "street"
@@ -171,8 +215,27 @@ These signs with red writting on white background and red border are only in Den
 ![Slovenia road signe](resources/img/roadsign-denmark.png)
 ## Road lines
 
-TO DO
+### Nordic road lines
 
+Road lines can be a good way to distinguish between nordic countries. This is not true everywhere but can be still be used.
+
+  - In sweden, lanes on the side are made of small dashes:
+
+[![example](resources/img/road-lines/road-lines-sweden-01.png)](https://www.google.com/maps/@62.6869749,15.5752079,3a,90y,107.45h,59.43t/data=!3m6!1e1!3m4!1sJZblRm-Kl8JrI0U1RP7YXQ!2e0!7i16384!8i8192)
+
+  - Finland has solid side lines most of the time
+
+[![example](resources/img/road-lines/road-lines-finland-01.png)](https://www.google.com/maps/@62.2903684,26.3817958,3a,75y,84.03h,72.02t/data=!3m7!1e1!3m5!1s1nsbPgiNgC4pOfx7yhlFtA!2e0!3e11!7i13312!8i665)
+
+  - Some places in Denmark have dotted lines with very small dots
+
+[![example](resources/img/road-lines/road-lines-denmark-01.png)](https://www.google.com/maps/@55.3109908,10.2672599,3a,62.9y,31.51h,60.41t/data=!3m6!1e1!3m4!1sNutGPGUEcU6-V5pUMz9MAQ!2e0!7i16384!8i8192)
+
+  - Norway has a mix of solid lines and long dashes
+
+[![example](resources/img/road-lines/road-lines-norway-01.png)](https://www.google.com/maps/@64.883546,13.1603741,3a,75y,236.47h,62.76t/data=!3m6!1e1!3m4!1soSbk60TJ-TNc-YriHffBEA!2e0!7i16384!8i8192)
+
+[![example](resources/img/road-lines/road-lines-norway-02.png)](https://www.google.com/maps/@64.883546,13.1603741,3a,75y,236.47h,62.76t/data=!3m6!1e1!3m4!1soSbk60TJ-TNc-YriHffBEA!2e0!7i16384!8i8192)
 ## Internet domains
 
 Internet website are often found on shops, ads, trucks... If it does not end with a classic `.com` it can be really helpful to identify the country.
