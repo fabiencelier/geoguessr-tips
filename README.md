@@ -34,6 +34,8 @@ More tricks and techniques can be found on [this famous blog](https://somerandom
   - [Internet domains](#internet-domains)
   - [Phone number](#phone-number)
     - [France](#france)
+  - [License plates](#license-plates)
+    - [Portugal license plates](#portugal-license-plates)
 ## Coverage of Google Street View 
 
   - [Map maker tool](https://www.geoguessr.com/map-maker) of GeoGuessr
@@ -264,3 +266,19 @@ In France the 2 first digits of the phone number are based on the geographic are
 ![French phone number](resources/img/phone-number-france-01.png)
 
 _source: [wikipedia](https://commons.wikimedia.org/wiki/File:Carte_indicatifs_t%C3%A9l%C3%A9phoniques_fran%C3%A7ais.svg)_
+
+## License plates
+
+### Portugal license plates
+
+European license plates have blue on the left but Portugal is the only country with yellow on the right.
+
+![Portugal license plate](resources/img/license-plate/portugal-license-plate-01.jpg)
+
+This is still visible through the blur
+
+[![Portugal license plate](resources/img/license-plate/portugal-license-plate-02.png)](https://www.google.com/maps/@38.785433,-9.1761805,3a,15y,5.24h,75.25t/data=!3m7!1e1!3m5!1smYutzO7DVRhiloumYmjCAA!2e0!6s%2F%2Fgeo1.ggpht.com%2Fcbk%3Fpanoid%3DmYutzO7DVRhiloumYmjCAA%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D47.28306%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192)
+
+However, since 2020 the new plates will look more like the European standard without yellow.
+
+See [Vehicle registration plates of Portugal](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Portugal) article on wikipedia for more details.
