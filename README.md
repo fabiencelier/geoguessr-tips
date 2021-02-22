@@ -115,13 +115,15 @@ In several countries the Google car simply has metal bars on the roof. There are
 
 #### Kyrgystan
 
-
 ![Kyrgystan google car](resources/img/google-car-kyrgystan-01.png)
 
 #### Dominican Republic
 
 ![Kyrgystan google car](resources/img/google-car-dominican-republic-01.png)
 
+#### Curaçao
+
+[![Curaçao google car](resources/img/google-car-curacao-01.png)](https://www.google.com/maps/@12.1363532,-68.9106772,3a,90y,10.94h,20.89t/data=!3m6!1e1!3m4!1so7-CipndenZZbF1pHXPkwQ!2e0!7i13312!8i6656)
 ### Nigeria
 
 In some places of the country (not all !) the google car is followed by a police car. One of the police cars is really easy to identify because it has red and blue lights on the roof.
