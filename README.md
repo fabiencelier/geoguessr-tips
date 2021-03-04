@@ -143,44 +143,44 @@ Countries with specific year on all the pictures:
 
 #### In Europe
 
-| Country | "street"  |
-|---|---|
-| Albanian | rrugë |
-| Bulgarian |	улица	|
-| Macedonian | улица |
-| Serbian | улица |
-| Russian | улица |
-| Ukrainian |	вулиця |
-| Greek |	δρόμος |
-| Catalan | carrer |
-| Croatian | ulica |
-| Polish | ulica |
-| Slovenian |	ulica |
-| Czech |	ulice |
-| Hungarian |	utca |
-| Lithuanian | gatvė	|
-| Danish | gade |
-| Norwegian |	gate |
-| Swedish |	gata |
-| Finnish |	katu |
-| Dutch |	straat |
-| Italian |	strada |
-| Romanian | stradă |
-| French | rue |
-| Galician | rúa |
-| Portuguese | rua |
-| Estonian | tänav |
-| German | Straße |
-| Icelandic |	Götu |
-| Irish |	ainm |
-| Latvian | iela |
-| Luxembourgish |	Strooss |
-| Maltese |	triq |
-| Scots Gaelic | sràid |
-| Slovak | pouličné |
-| Spanish |	calle |
-| Welsh |	stryd |
-| Turkish |	sokak |
+| Country       | "street" |
+| ------------- | -------- |
+| Albanian      | rrugë    |
+| Bulgarian     | улица    |
+| Macedonian    | улица    |
+| Serbian       | улица    |
+| Russian       | улица    |
+| Ukrainian     | вулиця   |
+| Greek         | δρόμος   |
+| Catalan       | carrer   |
+| Croatian      | ulica    |
+| Polish        | ulica    |
+| Slovenian     | ulica    |
+| Czech         | ulice    |
+| Hungarian     | utca     |
+| Lithuanian    | gatvė    |
+| Danish        | gade     |
+| Norwegian     | gate     |
+| Swedish       | gata     |
+| Finnish       | katu     |
+| Dutch         | straat   |
+| Italian       | strada   |
+| Romanian      | stradă   |
+| French        | rue      |
+| Galician      | rúa      |
+| Portuguese    | rua      |
+| Estonian      | tänav    |
+| German        | Straße   |
+| Icelandic     | Götu     |
+| Irish         | ainm     |
+| Latvian       | iela     |
+| Luxembourgish | Strooss  |
+| Maltese       | triq     |
+| Scots Gaelic  | sràid    |
+| Slovak        | pouličné |
+| Spanish       | calle    |
+| Welsh         | stryd    |
+| Turkish       | sokak    |
 
 [source](https://www.indifferentlanguages.com/words/street)
 
@@ -188,8 +188,13 @@ Countries with specific year on all the pictures:
 
 - The [Finnish alphabet](https://en.wikipedia.org/wiki/Finnish_orthography#The_extra_letters_%C3%84_and_%C3%96) has 2 extra letters: ä and ö.
 - The [Danish and Norwegian alphabet](https://en.wikipedia.org/wiki/Danish_and_Norwegian_alphabet) has 3 extra letters: æ, ø and å.
-- The [Swedish alphabet](https://en.wikipedia.org/wiki/Swedish_alphabet) has 3 extra letters: å, ä and ö. 
+- The [Swedish alphabet](https://en.wikipedia.org/wiki/Swedish_alphabet) has 3 extra letters: å, ä and ö.
 
+### Baltic languages
+
+- Latvia: aābcčdeēfgģhiījkķlļmnņoprsštuūvzž (has a with bar)
+- Lithuania: aąbcčdeęėfghiįyjklmnoprsštuųūvzž (has no a with bar)
+- Estonia: ABDEFGHIJKLMNOPRSŠZŽTUVÕÄÖÜ (has a with to dots above)
 
 ## Road signs
 
