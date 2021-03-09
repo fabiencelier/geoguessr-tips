@@ -22,6 +22,8 @@ More tricks and techniques can be found on [this famous blog](https://somerandom
     - [Roof bars on the car](#roof-bars-on-the-car)
     - [Nigeria](#nigeria)
   - [Languages](#languages)
+    - [Identify Asian languages](#identify-asian-languages)
+    - [Identify Cyrillic languages](#identify-cyrillic-languages)
     - [How to say "street"](#how-to-say-street)
     - [Nordic languages](#nordic-languages)
   - [Road signs](#road-signs)
@@ -139,6 +141,14 @@ Countries with specific year on all the pictures:
   - Croatia: 2013
 ## Languages
 
+### Identify Asian languages
+
+
+[![Identify asian languages](resources/img/languages/asian-languages.jpg)](https://www.itchyfeetcomic.com/2013/12/creative-guesswork.html)
+
+### Identify Cyrillic languages
+
+[![Identify cyrillic languages](resources/img/languages/cyrillic-languages.png)](https://www.reddit.com/r/geoguessr/comments/kw91uv/my_guide_for_helping_narrow_down_cyrillic/)
 ### How to say "street"
 
 #### In Europe
@@ -183,6 +193,8 @@ Countries with specific year on all the pictures:
 | Turkish       | sokak    |
 
 [source](https://www.indifferentlanguages.com/words/street)
+
+Identifying street signs can be trained by playing in no move on [this map](https://www.geoguessr.com/maps/6012fb8d348c200001fff2c4).
 
 ### Nordic languages
 
