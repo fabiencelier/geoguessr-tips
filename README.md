@@ -36,6 +36,7 @@ More tricks and techniques can be found on [this famous blog](https://somerandom
   - [Internet domains](#internet-domains)
   - [Phone number](#phone-number)
     - [France](#france)
+    - [Italy](#italy)
   - [License plates](#license-plates)
     - [Portugal license plates](#portugal-license-plates)
 ## Coverage of Google Street View 
@@ -278,13 +279,23 @@ Here is a list of some tricky ones that can be seen in Geoguessr:
 
 ## Phone number
 
+In many countries the first digits of the phone number are based on the geographic area.
+
 ### France
 
-In France the 2 first digits of the phone number are based on the geographic area.
-
-![French phone number](resources/img/phone-number-france-01.png)
+![French phone number](resources/img/phone/phone-number-france-01.png)
 
 _source: [wikipedia](https://commons.wikimedia.org/wiki/File:Carte_indicatifs_t%C3%A9l%C3%A9phoniques_fran%C3%A7ais.svg)_
+
+`06` and `07` are mobile phones
+
+### Italy
+
+In Italy, first digits are sorted from north to south.
+
+![Italian phone number](resources/img/phone/phone-number-italy-01.png)
+
+_source: [Reddit](https://www.reddit.com/r/MapPorn/comments/fdivvg/you_have_a_landline_phone_in_italy_check_each)_
 
 ## License plates
 
