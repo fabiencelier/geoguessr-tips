@@ -39,7 +39,7 @@ More tricks and techniques can be found on [this famous blog](https://somerandom
     - [Italy](#italy)
   - [License plates](#license-plates)
     - [Portugal license plates](#portugal-license-plates)
-    - [USA front rear license plates](#us-front-rear-license-plates)
+    - [USA front rear license plates](#USA-license-plate-mounting-scheme)
 ## Coverage of Google Street View 
 
   - [Map maker tool](https://www.geoguessr.com/map-maker) of GeoGuessr
@@ -314,13 +314,15 @@ However, since 2020 the new plates will look more like the European standard wit
 
 See [Vehicle registration plates of Portugal](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Portugal) article on wikipedia for more details.
 
-### USA front and rear license plates
+### USA license plate mounting scheme
 
-In the USA front license plates are not mandatory in all states. The map and table below illustrates each states license plate mounting scheme.
+In the USA front license plates are not mandatory in all states. The map and table below illustrate each states license plate mounting scheme.
 
 [![USA front and rear license plates](resources/img/license-plate/us-front-rear-license-plates.png)](https://upload.wikimedia.org/wikipedia/commons/2/2a/US_Vehicle_Plate_Requirements_by_State.png)
-<span style="color:green">only rear plates required</span><br>
-<span style="color:red">front and rear plates required</span><br>
+source: [wikipedia](https://upload.wikimedia.org/wikipedia/commons/2/2a/US_Vehicle_Plate_Requirements_by_State.png)
+
+<span style="color:#00ae01">only rear plates required</span><br>
+<span style="color:#7d0001">front and rear plates required</span><br>
 <span style="color:black">front and rear plates generally required, with exceptions</span>
 
 | Mounting scheme                         | States  |
