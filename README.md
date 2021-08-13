@@ -39,6 +39,7 @@ More tricks and techniques can be found on [this famous blog](https://somerandom
     - [Italy](#italy)
   - [License plates](#license-plates)
     - [Portugal license plates](#portugal-license-plates)
+    - [USA front rear license plates](#USA-license-plate-mounting-scheme)
 ## Coverage of Google Street View 
 
   - [Map maker tool](https://www.geoguessr.com/map-maker) of GeoGuessr
@@ -312,3 +313,22 @@ This is still visible through the blur
 However, since 2020 the new plates will look more like the European standard without yellow.
 
 See [Vehicle registration plates of Portugal](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Portugal) article on wikipedia for more details.
+
+### USA license plate mounting scheme
+
+In the USA front license plates are not mandatory in all states. The map and table below illustrate each states license plate mounting scheme.
+
+[![USA front and rear license plates](resources/img/license-plate/us-front-rear-license-plates.png)](https://upload.wikimedia.org/wikipedia/commons/2/2a/US_Vehicle_Plate_Requirements_by_State.png)
+source: [wikipedia](https://upload.wikimedia.org/wikipedia/commons/2/2a/US_Vehicle_Plate_Requirements_by_State.png)
+
+<span style="color:#00ae01">only rear plates required</span><br>
+<span style="color:#7d0001">front and rear plates required</span><br>
+<span style="color:black">front and rear plates generally required, with exceptions</span>
+
+| Mounting scheme                         | States  |
+| -------------                           | -------- |
+| Front and rear plates                   | Alaska, American Samoa, California, Colorado, Connecticut, District of Columbia, Hawaii, Idaho, Illinois, Iowa, Maine, Maryland, Minnesota, Missouri, New Hampshire, New Jersey, New York, North Dakota, Northern Mariana Islands, Oregon, Rhode Island, Texas, Utah, Vermont, Virgin Islands, Virginia, Washington |
+| Rear plates only                        | Alabama, Arizona, Arkansas, Delaware, Florida, Georgia, Indiana, Kansas, Kentucky, Louisiana, Michigan, Mississippi, New Mexico, North Carolina, Ohio, Oklahoma, Pennsylvania, Puerto Rico, South Carolina, Tennessee, West Virginia |
+| Front and rear plates for most vehicles | Massachusetts, Montana, Nebraska, Nevada, South Dakota, Wyoming, Wisconsin |
+
+See [Vehicle registration plates of the Unitied States](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_the_United_States) article on wikipedia for more details.
