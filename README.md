@@ -326,7 +326,7 @@ source: [wikipedia](https://upload.wikimedia.org/wikipedia/commons/2/2a/US_Vehic
 | Color | Mounting scheme                         | States  |
 | ----- | -------------                           | ------- |
 | ![green](resources/img/license-plate/us-front-rear-license-plates-green.png) | Only rear plates required | Alaska, American Samoa, California, Colorado, Connecticut, District of Columbia, Hawaii, Idaho, Illinois, Iowa, Maine, Maryland, Minnesota, Missouri, New Hampshire, New Jersey, New York, North Dakota, Northern Mariana Islands, Oregon, Rhode Island, Texas, Utah, Vermont, Virgin Islands, Virginia, Washington |
-| ![green](resources/img/license-plate/us-front-rear-license-plates-red.png) | Front and rear plates | Alabama, Arizona, Arkansas, Delaware, Florida, Georgia, Indiana, Kansas, Kentucky, Louisiana, Michigan, Mississippi, New Mexico, North Carolina, Ohio, Oklahoma, Pennsylvania, Puerto Rico, South Carolina, Tennessee, West Virginia |
+| ![green](resources/img/license-plate/us-front-rear-license-plates-red.png) | Front and rear plates required | Alabama, Arizona, Arkansas, Delaware, Florida, Georgia, Indiana, Kansas, Kentucky, Louisiana, Michigan, Mississippi, New Mexico, North Carolina, Ohio, Oklahoma, Pennsylvania, Puerto Rico, South Carolina, Tennessee, West Virginia |
 | ![green](resources/img/license-plate/us-front-rear-license-plates-stripes.png) | Front and rear generally required with Exceptions | Massachusetts, Montana, Nebraska, Nevada, South Dakota, Wyoming, Wisconsin |
 
 See [Vehicle registration plates of the United States](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_the_United_States) article on wikipedia for more details.
