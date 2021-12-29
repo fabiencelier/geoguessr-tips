@@ -26,6 +26,7 @@ More tricks and techniques can be found on [this famous blog](https://somerandom
     - [Identify Cyrillic languages](#identify-cyrillic-languages)
     - [How to say "street"](#how-to-say-street)
     - [Nordic languages](#nordic-languages)
+    - [Baltic languages](#baltic-languages)
   - [Road signs](#road-signs)
     - [USA](#usa)
     - [USA vs Canada](#usa-vs-canada)
