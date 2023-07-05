@@ -80,6 +80,12 @@ Full list can be found on [wikipedia](https://en.wikipedia.org/wiki/Left-_and_ri
 
 Some countries have a special Google car that is easy to recognize.
 
+### Austria
+
+Somewhat yellow with vertical black stripes,
+
+![Austria google car](resources/img/google-car-austria.png)
+
 ### Ghana
 
 In Ghana the car has roof bars with black tape.
@@ -142,6 +148,37 @@ In some places of the country (not all !) the google car is followed by a police
 Countries with specific year on all the pictures:
 
   - Croatia: 2013
+
+## Crosswalks
+
+### Crosswalk signs
+
+Curtesy of u/Simco_ on r/geoguessr
+
+![Crosswalk signs](resources/img/crosswalk-signs)
+
+### Netherlands
+
+Interesting bricklaying patterns in Amsterdam.
+
+![Netherlands brick crosswalk](resources/img/crosswalk-brick-patterns-netherlands)
+
+### Moscow, Russia
+
+![Moscow white/yellow alternating crosswalk](resources/img/crosswalk-moscow)
+
+## Manholes
+
+### Athens, Greece
+
+![Athens manhole](resources/img/manhole-athens-greece)
+
+### Mexico City
+
+![Mexico City manhole](resources/img/manhole-mexico-city)
+
+##
+
 ## Languages
 
 ### Identify Asian languages
