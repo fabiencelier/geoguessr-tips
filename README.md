@@ -153,7 +153,7 @@ Countries with specific year on all the pictures:
 
 ### Crosswalk signs
 
-Curtesy of u/Simco_ on r/geoguessr
+Courtesy of u/Simco_ on r/geoguessr
 
 ![Crosswalk signs](resources/img/crosswalk-signs)
 
@@ -177,7 +177,6 @@ Interesting bricklaying patterns in Amsterdam.
 
 ![Mexico City manhole](resources/img/manhole-mexico-city)
 
-##
 
 ## Languages
 
